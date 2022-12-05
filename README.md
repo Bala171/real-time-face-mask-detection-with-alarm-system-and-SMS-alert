@@ -154,9 +154,6 @@ $ streamlit run app.py
 ---
 
 
-
-![](Readme_images/nn.jpeg)
-
 ## :raising_hand: Cited by:
 
 1. https://osf.io/preprints/3gph4/
